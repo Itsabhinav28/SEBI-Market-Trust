@@ -296,24 +296,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team
-
-**Project Lead**: [Your Name]  
-**UI/UX Design**: Professional Design System  
-**Development**: Flutter & Dart  
-**AI Integration**: Custom FinBot Implementation  
-
----
-
-## 📞 Contact & Support
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub Issues**: [Report Issues](https://github.com/yourusername/sebi-markettrust-app/issues)
-- **Project Link**: [https://github.com/yourusername/sebi-markettrust-app](https://github.com/yourusername/sebi-markettrust-app)
-
----
-
 ## 🙏 Acknowledgments
 
 - **SEBI** for inspiring investor education initiatives
